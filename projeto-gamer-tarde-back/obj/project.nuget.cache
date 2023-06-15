@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1EV2fwaiQ7EruaAeOxjn8qGE0KiGsL37NPsKU8D2Fz+xRKdz4bOUDtwLlvrMYl9kqiatHyJVsLSc9kaBIovF4g==",
+  "dgSpecHash": "YzX8gRzMmv66BYHTniQR8CoKCif4vbkATVtkFB1Y+aSREUtw5ivjx5X8P9PN26L3vYdtkJ9AsbRN1F6i6rPczg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration\\projeto-gamer-tarde-back\\projeto-gamer-tarde.csproj",
+  "projectFilePath": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\projeto-gamer-tarde.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\40666090823\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\40666090823\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
