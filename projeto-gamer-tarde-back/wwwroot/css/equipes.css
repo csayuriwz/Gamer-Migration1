@@ -3,8 +3,9 @@
 /* Main */
 
 main {
+
     height: 1231px;
-    background-image: url(../images/background-equipes-mobile.png);
+    background-image: url(../images/CBLoL-2022-paiN-e-LOUD-vencem-e-fazem-final-upper.webp);
     background-size: contain;
     background-position: top;
 }
@@ -15,8 +16,8 @@ main {
 main .cadastro-equipes {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     align-items: center;
+    gap: 160px;
     position: relative;
     z-index: 0;
     height: 100%;

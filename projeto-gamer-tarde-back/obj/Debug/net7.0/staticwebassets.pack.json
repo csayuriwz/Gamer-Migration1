@@ -285,6 +285,10 @@
       "PackagePath": "staticwebassets\\images\\Banner_Liga-Game.png"
     },
     {
+      "Id": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\wwwroot\\images\\CBLoL-2022-paiN-e-LOUD-vencem-e-fazem-final-upper.webp",
+      "PackagePath": "staticwebassets\\images\\CBLoL-2022-paiN-e-LOUD-vencem-e-fazem-final-upper.webp"
+    },
+    {
       "Id": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\wwwroot\\images\\Card-FIFA.png",
       "PackagePath": "staticwebassets\\images\\Card-FIFA.png"
     },
@@ -371,6 +375,10 @@
     {
       "Id": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\wwwroot\\img\\Equipes\\ibis.png",
       "PackagePath": "staticwebassets\\img\\Equipes\\ibis.png"
+    },
+    {
+      "Id": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\wwwroot\\img\\Equipes\\padrao.jpg",
+      "PackagePath": "staticwebassets\\img\\Equipes\\padrao.jpg"
     },
     {
       "Id": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\wwwroot\\img\\Equipes\\padrao.png",

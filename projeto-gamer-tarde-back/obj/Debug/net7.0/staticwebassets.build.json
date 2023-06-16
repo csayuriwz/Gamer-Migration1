@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/Pb1Tojw8owSpPzSc6Zy2KICMbHnfcgXGEnRfYOkFnE=",
+  "Hash": "azpsqgq23ncorVXgeZvPAYJOjqndmNrtpbB7j4qHCDE=",
   "Source": "projeto-gamer-tarde",
   "BasePath": "_content/projeto-gamer-tarde",
   "Mode": "Default",
@@ -1360,6 +1360,23 @@
       "OriginalItemSpec": "wwwroot\\images\\Card-FIFA.png"
     },
     {
+      "Identity": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\wwwroot\\images\\CBLoL-2022-paiN-e-LOUD-vencem-e-fazem-final-upper.webp",
+      "SourceId": "projeto-gamer-tarde",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-tarde",
+      "RelativePath": "images/CBLoL-2022-paiN-e-LOUD-vencem-e-fazem-final-upper.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\CBLoL-2022-paiN-e-LOUD-vencem-e-fazem-final-upper.webp"
+    },
+    {
       "Identity": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\wwwroot\\images\\Game-CS-GO.png",
       "SourceId": "projeto-gamer-tarde",
       "SourceType": "Discovered",
@@ -1613,6 +1630,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\Equipes\\ibis.png"
+    },
+    {
+      "Identity": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\wwwroot\\img\\Equipes\\padrao.jpg",
+      "SourceId": "projeto-gamer-tarde",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-tarde",
+      "RelativePath": "img/Equipes/padrao.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Equipes\\padrao.jpg"
     },
     {
       "Identity": "C:\\Users\\40666090823\\Desktop\\Gamer-Migration1\\projeto-gamer-tarde-back\\wwwroot\\img\\Equipes\\padrao.png",

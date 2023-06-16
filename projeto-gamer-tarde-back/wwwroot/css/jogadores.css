@@ -3,29 +3,22 @@
 /* Main */
 
 main {
-    margin-top: 60px;
-    height: 1403px;
+    height: 1200px;
     background-image: url(../assets/fundo-jogadores-mobile.png);
     background-size: contain;
     background-position: top;
 }
 
 
-
-
-
-
-
 /* FORMULÁRIO DE CADASTRO DE EQUIPES */
 main .cadastro-equipes {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    gap: 120px;
     align-items: center;
     position: relative;
     z-index: 0;
     height: 100%;
-
     padding: 80px 0 130px;
 
 }
@@ -37,10 +30,8 @@ main .cadastro-equipes::before {
     width: 100%;
     height: 100%;
     background-color: rgba(217, 217, 217, .01);
-    backdrop-filter: blur(1px);
+
 }
-
-
 
 /* Form cadastro */
 
@@ -237,17 +228,13 @@ main .cadastro-equipes table td img.yellow-trash {
 
 /* Desktop */
 @media screen and (min-width: 992px) {
-    .container-grid {
-        width: 100%;
-        max-width: 992px;
-        margin: 0 auto;
-        /* border: 1px solid #EC4358; */
-    }
     main {
         background-image: url(../images/background-jogadores.png);
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
+        
+
     }
     main .cadastro-equipes .frm-cad-equipe {
         width: 800px;
